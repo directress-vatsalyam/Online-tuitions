@@ -1,93 +1,135 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Vatsalyam Child Care</title>
+<div style="font-family:Poppins,sans-serif;background:#f4f8ff;padding:40px;">
 
-<style>
+<!-- HERO SECTION -->
 
-body{
-font-family:Arial;
-margin:0;
-background:#fff8f0;
-}
+<div style="background:linear-gradient(135deg,#1e3c72,#2a5298);padding:60px 30px;border-radius:24px;color:white;text-align:center;margin-bottom:40px;">
 
-header{
-background:#ff914d;
-color:white;
-padding:40px;
-text-align:center;
-}
+<h1 style="font-size:42px;margin-bottom:15px;">
+Vatsalyam Child Care and Learning Centre
+</h1>
 
-nav{
-background:#333;
-padding:15px;
-text-align:center;
-}
+<p style="font-size:20px;max-width:800px;margin:auto;line-height:1.7;">
+Learning With Care, Culture & Connection
+</p>
 
-nav a{
-color:white;
-margin:15px;
-text-decoration:none;
-}
+<div style="margin-top:30px;">
+<a href="#" style="background:white;color:#1e3c72;padding:14px 28px;border-radius:40px;text-decoration:none;font-weight:bold;margin-right:10px;">
+Explore Programs
+</a>
 
-section{
-padding:40px;
-}
-
-.card{
-background:white;
-padding:25px;
-margin-bottom:20px;
-border-radius:15px;
-box-shadow:0 0 10px rgba(0,0,0,0.1);
-}
-
-footer{
-background:#222;
-color:white;
-padding:20px;
-text-align:center;
-}
-
-</style>
-</head>
-
-<body>
-
-<header>
-<h1>Vatsalyam Child Care and Learning Centre</h1>
-<p>Day Care | After School Care | Tuition</p>
-</header>
-
-<nav>
-<a href="#">Home</a>
-<a href="#">Programs</a>
-<a href="#">Admissions</a>
-<a href="#">Contact</a>
-</nav>
-
-<section>
-
-<div class="card">
-<h2>Day Care</h2>
-<p>Safe and caring environment for children.</p>
+<a href="#" style="background:#ffb347;color:white;padding:14px 28px;border-radius:40px;text-decoration:none;font-weight:bold;">
+Contact Us
+</a>
 </div>
 
-<div class="card">
-<h2>After School Care</h2>
-<p>Homework support and activity-based learning.</p>
 </div>
 
-<div class="card">
-<h2>Tuition Classes</h2>
-<p>KG to Class 12 - CBSE / ICSE / State.</p>
+<!-- TWO MAIN CARDS -->
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:30px;">
+
+<!-- DAY CARE CARD -->
+
+<div style="background:white;padding:30px;border-radius:22px;box-shadow:0 8px 20px rgba(0,0,0,0.08);">
+
+<div style="font-size:50px;">🧸</div>
+
+<h2 style="color:#1e3c72;margin-top:10px;">
+Day Care
+</h2>
+
+<p style="line-height:1.8;color:#555;">
+Safe and nurturing child care support for children from 6 months to 12 years.
+</p>
+
+<ul style="line-height:2;color:#444;padding-left:20px;">
+<li>Infant & Toddler Care</li>
+<li>Montessori Activity Learning</li>
+<li>Peer & Emotional Development</li>
+<li>After School Care</li>
+<li>Night Care Support</li>
+<li>Creative Learning Activities</li>
+</ul>
+
+<div style="margin-top:20px;">
+<a href="#" style="background:#1e3c72;color:white;padding:12px 22px;border-radius:30px;text-decoration:none;">
+Learn More
+</a>
 </div>
 
-</section>
+</div>
 
-<footer>
-© 2026 Vatsalyam Child Care and Learning Centre
-</footer>
+<!-- HERITAGE CARD -->
 
-</body>
-</html>
+<div style="background:white;padding:30px;border-radius:22px;box-shadow:0 8px 20px rgba(0,0,0,0.08);">
+
+<div style="font-size:50px;">🌏</div>
+
+<h2 style="color:#1e3c72;margin-top:10px;">
+Heritage & Online Tuitions
+</h2>
+
+<p style="line-height:1.8;color:#555;">
+Helping children stay connected with education, language, culture, and family values.
+</p>
+
+<ul style="line-height:2;color:#444;padding-left:20px;">
+<li>Mother Tongue Learning</li>
+<li>Grandparent Connect</li>
+<li>Festival-Based Learning</li>
+<li>KG to Class 12 Tuition</li>
+<li>Spoken English Support</li>
+<li>AI Voice Practice</li>
+</ul>
+
+<div style="margin-top:20px;">
+<a href="#" style="background:#ff9800;color:white;padding:12px 22px;border-radius:30px;text-decoration:none;">
+Explore Programs
+</a>
+</div>
+
+</div>
+
+</div>
+
+<!-- WHY CHOOSE US -->
+
+<div style="margin-top:50px;background:white;padding:40px;border-radius:22px;box-shadow:0 8px 20px rgba(0,0,0,0.08);">
+
+<h2 style="text-align:center;color:#1e3c72;margin-bottom:30px;">
+Why Parents Choose Us
+</h2>
+
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;">
+
+<div style="background:#f8fbff;padding:20px;border-radius:18px;text-align:center;">
+<h3>👩‍🏫 Experienced Guidance</h3>
+<p>Supportive teachers and caring mentors.</p>
+</div>
+
+<div style="background:#fff9f2;padding:20px;border-radius:18px;text-align:center;">
+<h3>🧠 Emotional Development</h3>
+<p>Helping children build confidence and connection.</p>
+</div>
+
+<div style="background:#f6fff5;padding:20px;border-radius:18px;text-align:center;">
+<h3>🎨 Creative Learning</h3>
+<p>Interactive activities and playful education.</p>
+</div>
+
+<div style="background:#fff5f5;padding:20px;border-radius:18px;text-align:center;">
+<h3>🌙 Flexible Care Support</h3>
+<p>After school and night care assistance.</p>
+</div>
+
+</div>
+
+</div>
+
+<!-- FOOTER -->
+
+<div style="text-align:center;margin-top:50px;color:#666;">
+<p>© 2026 Vatsalyam Child Care and Learning Centre</p>
+</div>
+
+</div>
